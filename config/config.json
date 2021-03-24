@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "red_packet",
+    "host": "192.168.1.118",
+    "port": "3306",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "root",
+    "database": "red_packet",
+    "host": "192.168.1.128",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "root",
+    "database": "red_packet",
+    "host": "192.168.1.128",
+    "dialect": "mysql"
+  }
+}
